@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Lámpara",
+        "marca": "3D Models",
+        "modelo": "Groot",
+        "precio": 2500,
+        "stock": 10,
+        "img": "lamparagroot.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Lámpara",
+        "marca": "3D Models",
+        "modelo": "Hogwarts",
+        "precio": 2500,
+        "stock": 10,
+        "img": "lamparahogwarts.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Lámpara",
+        "marca": "3D Models",
+        "modelo": "Hongo",
+        "precio": 2500,
+        "stock": 10,
+        "img": "lamparahongo.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Lámpara",
+        "marca": "3D Models",
+        "modelo": "Terminator",
+        "precio": 2500,
+        "stock": 10,
+        "img": "lamparaterminator.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Lapicero",
+        "marca": "3D Models",
+        "modelo": "Anemona",
+        "precio": 1000,
+        "stock": 10,
+        "img": "lapiceroanemona.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Lapicero",
+        "marca": "3D Models",
+        "modelo": "Octogonal",
+        "precio": 1000,
+        "stock": 10,
+        "img": "lapicerooctogonal.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Lapicero",
+        "marca": "3D Models",
+        "modelo": "Organizador",
+        "precio": 1000,
+        "stock": 10,
+        "img": "lapiceroorganizador.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre": "Lapicero",
+        "marca": "3D Models",
+        "modelo": "Pi",
+        "precio": 1000,
+        "stock": 10,
+        "img": "lapiceropi.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Arbol",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceteroarbol.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Bob Esponja",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceterobobesponja.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Calavera",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceterocalavera.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Casita",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceterocasita.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Raiz",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceteroraiz.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": 3,
+        "nombre": "Macetero",
+        "marca": "3D Models",
+        "modelo": "Castillo",
+        "precio": 1500,
+        "stock": 10,
+        "img": "maceterocastillo.jpg"
+    }
+]

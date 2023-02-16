@@ -1,0 +1,31 @@
+.btn-outline-dark:hover{
+    background: #CDFEAA;  
+}
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+    background-color: #CDFEAA;   
+}
+.cardProductos{
+    margin: 4px;
+    align-items: center;
+    justify-content: center;
+}
+.cardBody {
+    background-color: #CDFEAA;
+    margin-bottom: 3px;
+    text-align: center;
+}
+img {
+    margin-top: 4px;
+}
+
+.itemDetail{
+    max-width: 68%;
+    margin-top: 20px;
+
+}
+.card-img-top{
+    border-radius: 25px;
+}
+
